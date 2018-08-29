@@ -989,7 +989,7 @@ a, #wccsp-container input, #wccsp-container button, #wccsp-container textarea, #
 }
 
 #wccsp-container .wccsp-contact .contact-form input[type="submit"] {
-	background: #0076a9 none repeat scroll 0 0;
+	background: #ef5734 none repeat scroll 0 0;
 	-webkit-appearance: none;
 	box-shadow: none;
 	border: medium none;
@@ -1761,7 +1761,8 @@ h2.section-title strong {
 	margin-bottom: 10px;
 }
 
-.postid-6 #page-content p,.page-id-19 #page-content li ul li {
+.postid-6 #page-content p,
+.page-id-19 #page-content li ul li {
 	font-size: 16px;
 }
 
@@ -1970,6 +1971,14 @@ h2.section-title strong {
 	box-shadow: none !important;
 }
 
+.blog #content .entry-content a,
+.archive #content .entry-content a,
+.author #content .entry-content a,
+.search #content .entry-content a,
+.single-post #content .entry-content a {
+	color: #ef5734;
+}
+
 .blog #content article,
 .archive #content article,
 .author #content article,
@@ -2046,7 +2055,7 @@ h2.section-title strong {
 .search #content #secondary .widget_search,
 .single-post #content #secondary .widget_search {
 	padding: 20px;
-	background-color: #0076A9;
+	background-color: #ef5734;
 	margin-bottom: 40px;
 }
 
@@ -2070,7 +2079,7 @@ h2.section-title strong {
 	border: none;
 	border-radius: 0;
 	box-shadow: none;
-	color: #0076A9;
+	color: #ef5734;
 	background-color: #fff;
 }
 
@@ -2082,7 +2091,7 @@ h2.section-title strong {
 	padding: 20px;
 	background-color: #FBFBFB;
 	border: 1px solid #E7E7E7;
-	border-top: 5px solid #1372A8;
+	border-top: 5px solid #ef5734;
 	margin-bottom: 30px;
 }
 
@@ -2134,7 +2143,7 @@ h2.section-title strong {
 	padding: 180px 20px 20px;
 	background-color: #FBFBFB;
 	border: 1px solid #E7E7E7;
-	border-top: 5px solid #1372A8;
+	border-top: 5px solid #ef5734;
 	margin-bottom: 40px;
 	background: #FBFBFB url('https://2017.ahmedabad.wordcamp.org/files/2017/05/Newsletter-Icon.png') no-repeat;
 	background-position: center 20px;
@@ -2184,7 +2193,7 @@ h2.section-title strong {
 .single-post #content #secondary .jetpack_subscription_widget #subscribe-submit input {
 	font-weight: 400;
 	color: #fff;
-	background-color: #0076A9;
+	background-color: #ef5734;
 }
 
 .wcb_widget_sponsors a.sponsor-logo {
@@ -2221,7 +2230,7 @@ h2.section-title strong {
 	padding: 20px 20px 0;
 	background-color: #FBFBFB;
 	border: 1px solid #E7E7E7;
-	border-top: 5px solid #1372A8;
+	border-top: 5px solid #ef5734;
 	margin-bottom: 30px;
 	text-align: center;
 }
@@ -2233,7 +2242,7 @@ h2.section-title strong {
 	margin: 0 -20px;
 	padding: 10px 15px;
 	color: #fff;
-	background-color: #0076A9;
+	background-color: #ef5734;
 }
 
 #secondary .wcb_widget_sponsors .sponsor-level {
@@ -2975,7 +2984,7 @@ body.single-post .entry-content h4 {
 }
 
 .postid-2329 .entry-content a {
-	color: #0076A9;
+	color: #ef5734;
 }
 
 body.single-post .entry-footer {
@@ -2996,7 +3005,7 @@ body.postid-1584 h2.blog-anchor {
 }
 
 body.postid-1584 .entry-content ul li a {
-	color: #0076A9;
+	color: #ef5734;
 }
 
 .overlay {
@@ -3128,7 +3137,7 @@ body.postid-1584 .entry-content ul li a {
 }
 
 body.single-post .content-area a {
-	color: #0076A9;
+	color: #ef5734;
 }
 
 .postid-4832 .entry-content a.post_btn {
