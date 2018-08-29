@@ -2649,7 +2649,7 @@ h2.section-title strong {
 	}
 	
 	.home #sponsors-section .sponsor-logos-wrap,
-																																																																																																							.home #blog-section .posts-list {
+	.home #blog-section .posts-list {
 		padding-top: 0;
 	}
 	
@@ -2781,15 +2781,16 @@ h2.section-title strong {
 	
 	/*** Venue Page ***/
 	.page-id-7 .page-header,
-												.page-id-14 .page-header,
-																																													.page-id-2516 .page-header,
-																																														.page-id-13 .page-header,
-																																																		.page-id-1340 .page-header,
-																																																																																			.page-id-12 .page-header,
-																																																																																														.page-id-207 .page-header,
-																																																																																														.page-id-19 .page-header, .page-id-10 .page-header,
-																			.page-id-8 .page-header,
-																			.page-id-4442 .page-header {
+	.page-id-14 .page-header,
+	.page-id-2516 .page-header,
+	.page-id-13 .page-header,
+	.page-id-1340 .page-header,
+	.page-id-12 .page-header,
+	.page-id-207 .page-header,
+	.page-id-19 .page-header,
+	.page-id-10 .page-header,
+	.page-id-8 .page-header,
+	.page-id-4442 .page-header {
 		padding: 60px 30px;
 	}
 	
@@ -2803,8 +2804,8 @@ h2.section-title strong {
 	}
 	
 	.page-id-207 #venue-content .venue-image1,
-																																																																																																															.page-id-207 #venue-content .venue-image2,
-																																																																																																															.page-id-207 #venue-content .venue-image3 {
+	.page-id-207 #venue-content .venue-image2,
+	.page-id-207 #venue-content .venue-image3 {
 		min-height: 300px;
 	}
 	
@@ -2813,18 +2814,27 @@ h2.section-title strong {
 	}
 	
 	/*** Blog Page ***/
-	.blog #content .page-header h1, .search #content .page-header h1, .archive #content .page-header h1,  .author #content .page-header h1, .single-post #content .page-header h1 {
+	.blog #content .page-header h1,
+	.search #content .page-header h1,
+	.archive #content .page-header h1,
+	.author #content .page-header h1,
+	.single-post #content .page-header h1 {
 		font-size: 22px;
 		left: 0;
 	}
 	
-	.blog #content .page-header, .author #content .page-header, .archive #content .page-header, .search #content .page-header {
+	.blog #content .page-header,
+	.author #content .page-header,
+	.archive #content .page-header,
+	.search #content .page-header {
 		height: 200px;
 		padding: 60px 30px;
 	}
 	
-	.blog #content, .archive #content, .author #content,
-																																																																												.search #content {
+	.blog #content,
+	.archive #content,
+	.author #content,
+	.search #content {
 		padding-top: 220px;
 	}
 	
@@ -2833,15 +2843,15 @@ h2.section-title strong {
 	}
 	
 	.blog #content #primary,
-																																																																												.blog #content #secondary,
-																																																																												.archive #content #primary,
-																																																																												.archive #content #secondary,
-																																																																												.author #content #primary,
-																																																																												.author #content #secondary,
-																																																																												.search #content #primary,
-																																																																												.search #content #secondary,
-																																																																												.single-post #content #primary,
-																																																																												.single-post #content #secondary {
+	.blog #content #secondary,
+	.archive #content #primary,
+	.archive #content #secondary,
+	.author #content #primary,
+	.author #content #secondary,
+	.search #content #primary,
+	.search #content #secondary,
+	.single-post #content #primary,
+	.single-post #content #secondary {
 		float: none;
 		padding: 0;
 		width: 100%;
@@ -2942,7 +2952,9 @@ h2.section-title strong {
 	}
 }
 
-body.single-post .entry-content h2,body.single-post .entry-content h3,body.single-post .entry-content h4 {
+body.single-post .entry-content h2,
+body.single-post .entry-content h3,
+body.single-post .entry-content h4 {
 	padding: 0;
 }
 
